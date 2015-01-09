@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          TagPro Texture Pack
 // @description   Texture Pack for TagPro
-// @version       1
+// @version       1.1
 // @grant         none
 // @include       http://tagpro-*.koalabeast.com:*
 // @include       http://tangent.jukejuice.com:*
